@@ -1,0 +1,24 @@
+{
+  "name": "-web_aut_krists_lans_md2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristslans-sys/-WEB_AUT_KRISTS_LANS_MD2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kristslans-sys/-WEB_AUT_KRISTS_LANS_MD2/issues"
+  },
+  "homepage": "https://github.com/kristslans-sys/-WEB_AUT_KRISTS_LANS_MD2#readme",
+  "devDependencies": {
+    "cypress": "^15.13.0"
+  }
+}
